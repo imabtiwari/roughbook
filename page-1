@@ -1,12 +1,4 @@
 this goes to commit-1
-<<<<<<< HEAD
-<<<<<<< HEAD
 this goes to commit-2
 this goes to commit-3
 this goes to commit-4
-=======
-this goes to commit-2
->>>>>>> parent of 9b9d8e7... commit-3
-=======
-this goes to commit-2
->>>>>>> parent of 9b9d8e7... commit-3
